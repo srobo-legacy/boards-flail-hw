@@ -1,0 +1,4 @@
+schematics flail-logic.sch flail-power.sch
+output-name flail
+elements-dir ./components/pkg
+
