@@ -1,3 +1,3 @@
 [submodule "components"]
 	path = components
-	url = ./components.git
+	url = ../components.git
